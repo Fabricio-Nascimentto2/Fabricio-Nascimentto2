@@ -2,7 +2,7 @@
 
 !![Chess GIF](https://camo.githubusercontent.com/f110d81f681e9003ba1d289df38ab63e4e25854c6d9af7d406ebb742406048fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966)
 
-Sou **Fabricio**, estudante de **Análise e Desenvolvimento de Sistemas**.  
+Me chamo **Fabricio**, sou estudante de **Análise e Desenvolvimento de Sistemas**.  
 Apaixonado por tecnologia, programação e por transformar ideias em código 🚀  
 
 ---
@@ -10,7 +10,9 @@ Apaixonado por tecnologia, programação e por transformar ideias em código �
 ### 🚀 Sobre mim
 - 🎓 Atualmente cursando **ADS**  
 - 📚 Estudando: `Java`, `Dart & Flutter`, `PostgreSQL`  
-- 💻 Projetos em que estou trabalhando:  
+- 💻 Projetos em que estou trabalhando:
+  * CodMaze
+  * MapsEvents 
 
 
 ---
@@ -27,7 +29,7 @@ Apaixonado por tecnologia, programação e por transformar ideias em código �
 
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=Fabricio-Nascimentto2&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Nascimentto2&layout=compact)
 
 ---
 
