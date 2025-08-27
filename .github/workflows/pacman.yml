@@ -2,7 +2,7 @@ name: Pac-Man animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia meia-noite
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,17 +10,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: npm install
-      - run: node pacman.js
+
+      - name: Mudar para o diretório do projeto e instalar dependências
+        run: |
+          cd pacman-repo  # <--- Este é o passo crucial
+          npm install
+
+      - name: Executar a animação
+        run: |
+          cd pacman-repo  # <--- Mudar para a pasta novamente
+          node pacman.js
+
       - name: Commit files
         run: |
+          cd pacman-repo # <--- Certifique-se de que está na pasta certa para o commit
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add output/github-contribution-grid-pacman.svg
           git commit -m "Generate Pac-Man SVG"
           git push
-
