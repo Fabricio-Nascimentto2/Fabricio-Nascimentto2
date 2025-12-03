@@ -10,9 +10,7 @@ Apaixonado por tecnologia, programação e por transformar ideias em código �
 ### 🚀 Sobre mim
 - 🎓 Atualmente cursando **ADS**  
 - 📚 Estudando: `Java`, `Dart & Flutter`, `PostgreSQL`  
-- 💻 Projetos em que estou trabalhando:
-  * CodMaze
-  * MapsEvents 
+
 
 
 ---
