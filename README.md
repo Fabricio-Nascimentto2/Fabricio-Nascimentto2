@@ -1,9 +1,13 @@
-# 👋 Bem-vindo ao meu GitHub  
 
 ![Flash Speed](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)
 
-Me chamo **Fabricio**, sou estudante de **Análise e Desenvolvimento de Sistemas**.  
-Apaixonado por tecnologia, programação e por transformar ideias em código 🚀  
+<div align="center">
+
+  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="400" alt="Flash Speed">
+  
+  <br> <img src="[LINK_DIRETO_E_PERMANENTE_DO_SEU_GIF]" width="150" alt="Ícone Central">
+
+</div>
 
 ---
 
