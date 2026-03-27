@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu GitHub  
 
-![Flash Speed](https://camo.githubusercontent.com/f110d81f681e9003ba1d289df38ab63e4e25854c6d9af7d406ebb742406048fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966)
+![Flash Speed](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)
 
 Me chamo **Fabricio**, sou estudante de **Análise e Desenvolvimento de Sistemas**.  
 Apaixonado por tecnologia, programação e por transformar ideias em código 🚀  
