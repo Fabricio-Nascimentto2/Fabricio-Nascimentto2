@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Sobre mim
+
 - 🎓 Atualmente cursando **ADS**  
 - 📚 Estudando: `Java`, `Dart & Flutter`, `PostgreSQL`  
 
